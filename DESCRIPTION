@@ -10,6 +10,6 @@ Description: The R package used in the manuscript "Spatially Aware Adjusted Rand
 License: GPL (>= 2)
 Encoding: UTF-8
 Imports: stats
-Depends: R (>= 4.0.3)
+Depends: R (>= 4.0.2)
 LazyData: true
 RoxygenNote: 7.3.2
